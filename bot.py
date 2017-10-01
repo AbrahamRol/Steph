@@ -21,7 +21,7 @@ lactions = ["husbando", "general"]
 lgeneral = ["Hola, ¿Como están?", "Hey, ¿Que tal?", "Hola plebeyos bonitos!", "Hola mis niños :smile:", "¡Holaa!", "Heey", "¿Que hacen?", "Estoy aburrida :(", "¿Me recomiendan algun videojuego?", "Me siento amenazada estando frente a chicos con fotos de chicas"]
 lgame = ["ajedrez...", "a hablar con chicos que me quieren violar...", "a hablar con virgos", "a hablar con chicos con pp de chicas?", "a practicar piedra, papel y tijera", "a amar a Sora"]
 ldoing = ["aprendiendo de ustedes :)", "intentando entender porque se ponen fotos de perfil de mujeres si son hombres :(", "viendo fotos de Sora :relaxed:", "aburrida así que no se que hacer", "conociendolos mejor a ustedes :relaxed:"]
-lbadwordsq = ["mierda", "coño", "puta", "cojones", "puto", "putisima", "joder", "hijo de"]
+lbadwordsq = ["mierda", "coño", "puta", "cojones", "puto", "putisima", "hijo de", "pene", "polla", "pendejo", "carajo"]
 lbadwordsa = ["Por favor, no digas malas palabras frente a mi, recuerda que soy de la realeza >///<", "Por favor no digas malas palabras :(", "No seas grosero, me caias bien.", "No digas esas cosas!", "Oye, esas cosas no se dicen!", "Si sigues asi dejaras de ser mi amigo!", "Por favor, para de decir esas cosas!", "No digas malas palabras!"]
 #Acá terminan las listas
 
